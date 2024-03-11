@@ -1,115 +1,48 @@
-<!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous"> -->
+# 👋🏾 Hi! I'm Phaedra.
 
-<table>
-  <tr>
-    <td>
-      <h1 style="text-align: center;">hi! i'm phaedra.</h1>
-      <p style="text-align: center;">⭐⭐⭐</p>
-      <p style="text-align: center;"><em>I like stars, music, and Typescript.</em></p>
-      <h2 style="text-align: center;">languages and tools</h2>
-      <div  style="text-align: center;">
-        <img src="https://img.icons8.com/color/48/000000/figma--v1.png" height="50" style="width:auto !important;"/>
-        <img src="https://img.icons8.com/color/48/000000/javascript.png" height="50" style="width:auto !important;"/>
-        <img src="https://img.icons8.com/color/48/000000/python.png" height="50" style="width:auto !important;"/>
-        <img src="https://img.icons8.com/color/48/000000/html-5.png" height="50" style="width:auto !important;"/>
-        <img src="https://img.icons8.com/color/48/000000/css3.png" height="50" style="width:auto !important;"/>
-        <img src="https://img.icons8.com/color/48/000000/nodejs.png" height="50" style="width:auto !important;"/>
-        <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" height="50" style="width:auto !important;"/>
-      </div>
-      <hr>
-      <h2 style="text-align: center;">my github statistics</h2>
-      <p  style="text-align: center;"><img src="https://github-readme-stats.vercel.app/api?username=ph4iry&count_private=true&show_icons=true&hide=contribs&theme=material-palenight" alt="Overall Stats" width="100%"></p>
-      <hr>
-      <h2 style="text-align: center;">my top projects!</h2>
-      <p><a href="https://github.com/Artists-for-Humanity/astra-99"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Artists-for-Humanity&repo=astra-99&theme=material-palenight" alt="Readme Card" width="100%"></a></p>
-      <p><a href="https://github.com/ph4iry/aspen-sis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ph4iry&repo=aspen-sis&theme=material-palenight" alt="Readme Card" width="100%"></a></p>
-      <p><a href="https://github.com/Artists-for-Humanity/artopia-masking-demo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Artists-for-Humanity&repo=artopia-masking-demo&theme=material-palenight" alt="Readme Card" width="100%"></a></p>
-    </td>
-    <td>
-      <img src="https://avatars.githubusercontent.com/u/71579580?v=4" width="100%" style="border-radius: 15px"/>
-      <hr>
-      <div style="width:100%">
-        <p style="text-align: center;"><a href="mailto:phaedrasanon@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="phaedrasanon@gmail.com"></a></p>
-      </div>
-      <hr>
-      <p style="text-align: center;"><em>here's what i'm listening to:</em></p>
-      <p><a href="https://github.com/kittinan/spotify-github-profile"><img src="https://spotify-github-profile.vercel.app/api/view?uid=p44gq4wrzz0qlhy8prpq99n3a&cover_image=true&theme=default&show_offline=false&background_color=292d3e&interchange=true&bar_color=c792ea&bar_color_cover=false" alt="spotify-github-profile" width="100%"></a></p>
-    </td>
-  </tr>
-</table>
+[![Github](https://img.shields.io/badge/ph4iry-000000?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2Fph4iry)](https://github.com)
+[![Site](https://img.shields.io/badge/phaedraverse.dev-6355b5?style=for-the-badge&label=explore%20my%20site%3A&labelColor=000000&link=https%3A%2F%2Fphaedraverse.dev)](https://phaedraverse.dev)
+[![Linkedin](https://img.shields.io/badge/Phaedra%20Sanon-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/phaedra-sanon)
+[![Spotify](https://img.shields.io/badge/spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=FFF)](https://open.spotify.com/user/p44gq4wrzz0qlhy8prpq99n3a?si=eb880c9ff3b04375)
+[![Email](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=FFF)](mailto:phaedrasanon@gmail.com)
 
-<!-- <table>
-  <tr>
-    <th></th>
-    <th></th>
-  </tr>
-  <tr>
-    <td>
-    <p class="h2 fw-bold">hi! i'm phaedra.</p>
-    <p class="text-center h4">⭐⭐⭐</p>
-    <em>I like stars, music, and Typescript.</em>
-    <h2>languages and tools</h2>
-    <div class="row flex-row justify-content-center">
-      <img src="https://img.icons8.com/color/48/000000/figma--v1.png" height="50" style="width:auto !important;"/>
-      <img src="https://img.icons8.com/color/48/000000/javascript.png" height="50" style="width:auto !important;"/>
-      <img src="https://img.icons8.com/color/48/000000/python.png" height="50" style="width:auto !important;"/>
-      <img src="https://img.icons8.com/color/48/000000/html-5.png" height="50" style="width:auto !important;"/>
-      <img src="https://img.icons8.com/color/48/000000/css3.png" height="50" style="width:auto !important;"/>
-      <img src="https://img.icons8.com/color/48/000000/nodejs.png" height="50" style="width:auto !important;"/>
-      <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" height="50" style="width:auto !important;"/>
-    </div>
-    <h2>my github statistics</h2>
-    <p class="text-center"><img src="https://github-readme-stats.vercel.app/api?username=ph4iry&count_private=true&show_icons=true&hide=contribs&theme=material-palenight" alt="Overall Stats" width="100%"></p>
-    <h2>my top projects!</h2>
-    <p><a href="https://github.com/Artists-for-Humanity/astra-99"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Artists-for-Humanity&repo=astra-99&theme=material-palenight" alt="Readme Card" width="100%"></a></p>
-    <p><a href="https://github.com/ph4iry/aspen-sis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ph4iry&repo=aspen-sis&theme=material-palenight" alt="Readme Card" width="100%"></a></p>
-    <p><a href="https://github.com/Artists-for-Humanity/artopia-masking-demo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Artists-for-Humanity&repo=artopia-masking-demo&theme=material-palenight" alt="Readme Card" width="100%"></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://avatars.githubusercontent.com/u/71579580?v=4" width="100%" style="border-radius: 15px"/>
-      <hr>
-      <div class="row m-0 flex-nowrap align-items-center text-center" style="width:100%">
-        <p><a href="mailto:phaedrasanon@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="phaedrasanon@gmail.com"></a></p>
-      </div>
-      <hr class="my-1">
-      <p class="h4 text-center">here's what i'm listening to:</p>
-      <p><a href="https://github.com/kittinan/spotify-github-profile"><img src="https://spotify-github-profile.vercel.app/api/view?uid=p44gq4wrzz0qlhy8prpq99n3a&cover_image=true&theme=default&show_offline=false&background_color=292d3e&interchange=true&bar_color=c792ea&bar_color_cover=false" alt="spotify-github-profile" width="100%"></a></p>
-    </td>
-  </tr>
-</table> -->
+* 💫 I'm a teen web developer from Boston, Massachusetts.
+* 🖥️ I currently work at Artists for Humanity, adding a creative lens to the magical world of computer science.
+* 👾 I'm also an active member of Hack Club, dabbling in various projects alongisde other teen hackers.
 
-<!-- <div class="row">
-  <div class="col-8 text-center">
-    <p class="h2 fw-bold">hi! i'm phaedra.</p>
-    <p class="text-center h4">⭐⭐⭐</p>
-    <em>I like stars, music, and Typescript.</em>
-    <h2>languages and tools</h2>
-    <div class="row flex-row justify-content-center">
-      <img src="https://img.icons8.com/color/48/000000/figma--v1.png" height="50" style="width:auto !important;"/>
-      <img src="https://img.icons8.com/color/48/000000/javascript.png" height="50" style="width:auto !important;"/>
-      <img src="https://img.icons8.com/color/48/000000/python.png" height="50" style="width:auto !important;"/>
-      <img src="https://img.icons8.com/color/48/000000/html-5.png" height="50" style="width:auto !important;"/>
-      <img src="https://img.icons8.com/color/48/000000/css3.png" height="50" style="width:auto !important;"/>
-      <img src="https://img.icons8.com/color/48/000000/nodejs.png" height="50" style="width:auto !important;"/>
-      <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" height="50" style="width:auto !important;"/>
-    </div>
-    <h2>my github statistics</h2>
-    <p class="text-center"><img src="https://github-readme-stats.vercel.app/api?username=ph4iry&count_private=true&show_icons=true&hide=contribs&theme=material-palenight" alt="Overall Stats" width="100%"></p>
-    <h2>my top projects!</h2>
-    <p><a href="https://github.com/Artists-for-Humanity/astra-99"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Artists-for-Humanity&repo=astra-99&theme=material-palenight" alt="Readme Card" width="100%"></a></p>
-    <p><a href="https://github.com/ph4iry/aspen-sis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ph4iry&repo=aspen-sis&theme=material-palenight" alt="Readme Card" width="100%"></a></p>
-    <p><a href="https://github.com/Artists-for-Humanity/artopia-masking-demo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Artists-for-Humanity&repo=artopia-masking-demo&theme=material-palenight" alt="Readme Card" width="100%"></a></p>
-  </div>
-  <div class="col-4">
-    <img src="https://avatars.githubusercontent.com/u/71579580?v=4" width="100%" style="border-radius: 15px"/>
-    <hr>
-    <div class="row m-0 flex-nowrap align-items-center text-center" style="width:100%">
-      <p><a href="mailto:phaedrasanon@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="phaedrasanon@gmail.com"></a></p>
-    </div>
-    <hr class="my-1">
-    <p class="h4 text-center">here's what i'm listening to:</p>
-    <p><a href="https://github.com/kittinan/spotify-github-profile"><img src="https://spotify-github-profile.vercel.app/api/view?uid=p44gq4wrzz0qlhy8prpq99n3a&cover_image=true&theme=default&show_offline=false&background_color=292d3e&interchange=true&bar_color=c792ea&bar_color_cover=false" alt="spotify-github-profile" width="100%"></a></p>
-  </div>
-</div> -->
+I also love music, so check out what I'm listening to on Spotify:
+
+
+<div align="center">
+
+[![Welcome to my Github Profile](https://spotify-github-profile.vercel.app/api/view?uid=p44gq4wrzz0qlhy8prpq99n3a&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=0F9&bar_color_cover=false)](https://open.spotify.com/user/p44gq4wrzz0qlhy8prpq99n3a?si=eb880c9ff3b04375)
+
+</div>
+
+<details>
+  <summary>Tools I use</summary>
+  
+  [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=FFF)](https://tailwindcss.com/)
+  [![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+  [![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=FFF)](https://nextjs.org/)
+  [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=FFF)](https://vercel.com/)
+  [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=FFF)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=FFF)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  [![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=FFF)](https://sass-lang.com/)
+  [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=FFF)](https://www.java.com/)
+  [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFF)](https://www.python.org/)
+  [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=FFF)](https://www.figma.com/)
+  [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=FFF)](https://www.typescriptlang.org/)
+  [![Astro](https://img.shields.io/badge/Astro-000000?style=for-the-badge&logo=astro&logoColor=FFF)](https://astro.build/)
+  [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=FFF)](https://nodejs.org/)
+  [![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=FFF)](https://code.visualstudio.com/)
+</details>
+
+<details>
+  <summary>Github Stats</summary>
+
+  ![Phaedra's GitHub stats](https://github-readme-stats.vercel.app/api?username=ph4iry&show_icons=true&theme=dracula)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ph4iry&layout=compact&theme=dracula)
+</details>
