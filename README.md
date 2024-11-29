@@ -1,7 +1,7 @@
 # 👋🏾 Hi! I'm Phaedra.
 
 [![Github](https://img.shields.io/badge/ph4iry-000000?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2Fph4iry)](https://github.com)
-[![Site](https://img.shields.io/badge/phaedraverse.dev-6355b5?style=for-the-badge&label=explore%20my%20site%3A&labelColor=000000&link=https%3A%2F%2Fphaedraverse.dev)](https://phaedraverse.dev)
+[![Site](https://img.shields.io/badge/phaedras.space-6355b5?style=for-the-badge&label=explore%20my%20site%3A&labelColor=000000&link=https%3A%2F%2Fphaedras.space)](https://phaedraverse.dev)
 [![Linkedin](https://img.shields.io/badge/Phaedra%20Sanon-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/phaedra-sanon)
 [![Spotify](https://img.shields.io/badge/spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=FFF)](https://open.spotify.com/user/p44gq4wrzz0qlhy8prpq99n3a?si=eb880c9ff3b04375)
 [![Email](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=FFF)](mailto:phaedrasanon@gmail.com)
