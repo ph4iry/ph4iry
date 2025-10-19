@@ -6,9 +6,9 @@
 [![Spotify](https://img.shields.io/badge/spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=FFF)](https://open.spotify.com/user/p44gq4wrzz0qlhy8prpq99n3a?si=eb880c9ff3b04375)
 [![Email](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=FFF)](mailto:phaedrasanon@gmail.com)
 
-* 💫 I'm a teen web developer from Boston, Massachusetts.
-* 🖥️ I currently work at Artists for Humanity, adding a creative lens to the magical world of computer science.
-* 👾 I'm also an active member of Hack Club, dabbling in various projects alongisde other teen hackers.
+* 💫 I'm a web developer from Boston, Massachusetts.
+* 🖥️ I am currently a Computer Science student at Northeastern University, graduating in 2029.
+* 👾 On the side, I build projects for Hack Club, a community of teen hackers around the world!
 
 I also love music, so check out what I'm listening to on Spotify:
 
