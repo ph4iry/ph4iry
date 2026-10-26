@@ -10,15 +10,6 @@
 * 🖥️ I am currently a Computer Science student at Northeastern University, graduating in 2029.
 * 👾 On the side, I build projects for Hack Club, a community of teen hackers around the world!
 
-I also love music, so check out what I'm listening to on Spotify:
-
-
-<div align="center">
-
-[![Welcome to my Github Profile](https://spotify-github-profile.kittinanx.com/api/view?uid=p44gq4wrzz0qlhy8prpq99n3a&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=0F9&bar_color_cover=false)](https://open.spotify.com/user/p44gq4wrzz0qlhy8prpq99n3a?si=eb880c9ff3b04375)
-
-</div>
-
 <details>
   <summary>Tools I use</summary>
   
