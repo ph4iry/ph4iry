@@ -8,7 +8,6 @@
 
 * 💫 I'm a web developer from Boston, Massachusetts.
 * 🖥️ I am currently a Computer Science student at Northeastern University, graduating in 2029.
-* 👾 On the side, I build projects for Hack Club, a community of teen hackers around the world!
 
 <details>
   <summary>Tools I use</summary>
